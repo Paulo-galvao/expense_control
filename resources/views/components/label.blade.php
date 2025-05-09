@@ -1,0 +1,1 @@
+<label class="place-self-start" {{$attributes}}>{{$slot}}</label>

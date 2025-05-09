@@ -1,0 +1,24 @@
+usuario -> lista -> produto
+
+xxxx - cada usuario tem varias listas
+cada lista pertence a um usuario - xxxx sem user por enqunto 
+
+cada lista tem varios produtos
+cada produto pertence a uma categoria
+
+cada usuario tem varios produtos
+cada produto pertence a um usuario 
+
+lista
+-> nome
+-> valor_total
+-> usuario_id
+
+produto
+-> nome
+-> valor
+-> usuario_id
+-> lista_id
+
+xxx - usuario
+-> nome  

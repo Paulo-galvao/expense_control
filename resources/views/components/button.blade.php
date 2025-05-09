@@ -1,0 +1,1 @@
+<button class="cursor-pointer border-1 border-solid py-1 bg-blue-800 hover:bg-blue-700 transition duration-200 text-white rounded-lg text-sm w-30"> {{$slot}} </button>
